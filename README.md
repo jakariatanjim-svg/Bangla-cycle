@@ -1,3 +1,3 @@
 # voxel-fps
 
-game url - https://autumn-term-d03b.jakariatanjim.workers.dev/
+game url - https://blockfront.jakariatanjim.workers.dev/
